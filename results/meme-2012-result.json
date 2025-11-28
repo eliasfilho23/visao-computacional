@@ -1,0 +1,40 @@
+{
+    "averages": {
+        "final_average": 96.25,
+        "image_average": 86.25,
+        "image_average_weighted": 100,
+        "text_average": 92.5
+    },
+    "comprehensible_text": "Accidentally types 2012 instead of 2021",
+    "extracted_text": "*Accidentally types 2012 instead of\n2021*\n. aL. :\nMgt \u00a7 ; ; /\n_. OH\n\u2014 wy",
+    "image_analysis": {
+        "analise_geral": {
+            "detalhamento": "A composi\u00e7\u00e3o geral da imagem, que combina figuras conhecidas da cultura pop do in\u00edcio dos anos 2010 com elementos visuais distorcidos e um filtro em preto e branco, cria um forte apelo nost\u00e1lgico e um estilo visual t\u00edpico de memes que buscam evocar sentimentos relacionados \u00e0quela \u00e9poca. A combina\u00e7\u00e3o desses elementos sugere um meme sobre o passado, com forte refer\u00eancia visual e um estilo de edi\u00e7\u00e3o comum para expressar saudade ou surpresa.",
+            "probabilidade_de_ser_meme": 95
+        },
+        "elementos_distorcidos_e_preto_e_branco": {
+            "detalhamento": "O uso de efeitos de distor\u00e7\u00e3o e a paleta de cores em preto e branco contribuem para a atmosfera nost\u00e1lgica e um tanto ca\u00f3tica, frequentemente associada a memes que remetem a um per\u00edodo espec\u00edfico da internet.",
+            "probabilidade_de_ser_meme": 75
+        },
+        "imagem_psy": {
+            "detalhamento": "A pose e vestimenta do indiv\u00edduo, combinados com o estilo de edi\u00e7\u00e3o em preto e branco e a pose exagerada, sugerem um meme relacionado \u00e0 cultura pop do in\u00edcio dos anos 2010.",
+            "probabilidade_de_ser_meme": 90
+        },
+        "imagem_smosh": {
+            "detalhamento": "As express\u00f5es faciais exageradas dos indiv\u00edduos na imagem, juntamente com o logo \"SMOSH\" (parcialmente vis\u00edvel), indicam uma refer\u00eancia a um meme popular do YouTube do in\u00edcio dos anos 2010, com um estilo visual caracter\u00edstico da \u00e9poca.",
+            "probabilidade_de_ser_meme": 85
+        }
+    },
+    "ocr_confidence": 60.33,
+    "success": true,
+    "text_analysis": {
+        "analise_geral": {
+            "detalhamento": "A curta frase encapsula uma experi\u00eancia universal e frustrante, facilitando a identifica\u00e7\u00e3o e compartilhamento. A brevidade contribui para a sua viraliza\u00e7\u00e3o, tornando-a um excelente candidato a meme. O contraste entre o ano correto e o errado gera uma identifica\u00e7\u00e3o imediata com a sensa\u00e7\u00e3o de perda de tempo ou de estar preso no passado.",
+            "probabilidade_de_ser_meme": 95
+        },
+        "frase_1": {
+            "detalhamento": "A frase descreve um erro comum, a troca de anos, o que \u00e9 relatable e frequentemente explorado em memes. O humor surge da situa\u00e7\u00e3o cotidiana e da frustra\u00e7\u00e3o com o envelhecimento ou a passagem do tempo.",
+            "probabilidade_de_ser_meme": 90
+        }
+    }
+}
